@@ -6,6 +6,6 @@ if(2016=leap)
 {
   printf("\n leap year");
   else
-printf("\nleap year not");
+printf("\n leap year not");
 return0;
 }
