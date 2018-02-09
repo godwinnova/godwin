@@ -22,7 +22,7 @@ printf("armstrong");
 }
 else
 {
-printf("not an armstrong");
+printf("not a armstrong");
 }
 return 0;
 }
