@@ -15,5 +15,5 @@ def main():
 		longcomstr(l)
 	except:
 		print('invalid')
-    
-main()
+}
+   
